@@ -1,0 +1,16 @@
+h1{
+	color: red;
+}
+
+#i1{
+	color: blue;
+	text-align: center;
+}
+
+.commonDesign{
+	color: green;
+}
+
+div.a:hover{
+	color: green;
+}
